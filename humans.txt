@@ -3,13 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Cassidy Jensen> -- <Web Developer> -- <GitHub Username: CassidyJensen>
 
 # THANKS
 
-    <name>
+    <David Schaal>
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
+    CSS3, HTML5, Gulp.js, Sass, Node.js, GitHub
     Apache Server Configs, jQuery, Modernizr, Normalize.css
